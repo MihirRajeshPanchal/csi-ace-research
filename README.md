@@ -1,2 +1,1 @@
-# csi-ace-research
-AI ML Research Workshop for CSI ACE
+# csi-ace-research [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hqGfNdU2_vttRrzjMKS5Vkg5Ng9pyftt?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RwM4uVjxMgL2T3TENgYgWIMFSDWOdxUR?usp=sharing)
